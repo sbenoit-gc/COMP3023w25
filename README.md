@@ -11,6 +11,9 @@ Clone, or download the zip, to a local directory. Open in Unreal Engine 5.4 or n
 1. fanfare , fvcalderan,  < https://opengameart.org/content/classic-fanfare-lick >
 2. background music, cynicmusic, < https://opengameart.org/content/crystal-cave-song18 >
 3. clapping, qubodup, < https://opengameart.org/content/well-done >
+4. Background image, Artūras Kokorevas, Pexels, < https://www.pexels.com/photo/icelandic-landscape-at-sunset-with-jimny-29847092/ >
+5. Welcome message, ttsmaker, < https://ttsmaker.com >
+
 
 
 
